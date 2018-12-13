@@ -1,2 +1,3 @@
-# search-box
-A cool, animated search box! Check it out now.
+# Brands' Lounge
+## Animated Search box
+* A cool, animated search box! Check it out now.
